@@ -37,7 +37,6 @@ inquirer
             <h1>${response.name}</h1>
             <h1>${response.age}</h1>
             <h1>${response.height}</h1>
-            <script src="/assets/js/index.js"></script>
         </body>
         </html>
         `
